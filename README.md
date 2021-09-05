@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 </details>
 
-![Visitor Count](https://profile-counter.glitch.me/{callowidealist}/count.svg)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=callowidealist.visitor-badge)
+
+
 
 [Hashnode]: https://jitendra.hashnode.dev
 [gmail]: https://gmail.com
